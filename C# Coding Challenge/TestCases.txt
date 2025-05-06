@@ -1,0 +1,7 @@
+﻿--Test cases in case you want to use--
+
+Input: 33#                --> Output: E
+Input: 227*#              --> Output: B
+Input: 4433555 555666#    --> Output: HELLO
+Input: 8 88777444666*664# --> Output: TURING
+Input: exit               --> Ends the program
