@@ -23,7 +23,7 @@ This is a simple C# console application that decodes numeric input based on an o
 | `33#`                       | E        |
 | `227*#`                     | B        |
 | `4433555 555666#`           | HELLO    |
-| `8 88777444666*664#`        | TUPIN    |
+| `8 88777444666*664#`        | TURING    |
 | `exit`                      | (ends)   |
 
 ---
