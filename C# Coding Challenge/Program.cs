@@ -2,7 +2,7 @@
 
 namespace C__Coding_Challenge;
 
-internal class Program
+public class Program
 {
     private static void Main()
     {
@@ -44,7 +44,7 @@ internal class Program
     ///     Translates a numeric keypad sequence into corresponding text.
     ///     Supports old mobile keypad layout with space (pause), backspace '*', and end marker '#'.
     /// </summary>
-    private static string DecodeOldPhonePad(string input)
+    public static string DecodeOldPhonePad(string input)
     {
         // Mapping of keypad numbers to corresponding letters
         var keypad = new Dictionary<char, string>
